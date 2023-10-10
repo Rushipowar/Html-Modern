@@ -1,0 +1,17 @@
+Accessibility:
+    Design and Developing websites that ensure used and understood by many peoples as possible including disability 
+    peoples. Accessibility important for disable people which is help to understand.
+
+Importance of Accessible Website:
+
+    1. Business Growth: reach wide audience, increase engagement, loyalty and potential cutomer.
+    2. Legal Compliance: many countries have law to provide website accessibility
+
+Benefits of Accessibility:
+
+    1. Expanded Audience: expand the potential audiance for web services. people with disabilities represent
+       significant user base and with accessibility attract and ratain the users.
+    2. Better User Experience: Enhance user experience like alt and other attributes.
+    3. Improved SEO: User lead can ranking and increase discorverability of web content.
+    4. Positive Reputation: enhance organization reputation and brand image.
+    5. Inclusivity: disabilities peoples interact with web page content easily.

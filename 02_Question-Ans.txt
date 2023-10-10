@@ -1,0 +1,12 @@
+HTML Entities:
+    It is special code or character references used in HTML to display characters that have special meaning
+    or reserved purpose in HTML such as less-than(<) or ampersand(&). Without interpreted HTML code display 
+    characters.
+
+Commonly used Entities:
+    1. &lt; - For the less-than
+    2. &gt; - For the greater-than
+    3. &amp; - For the ampersand
+    4. &copy; - For the copy
+    5. &quot; - For the double quotation
+    etc...

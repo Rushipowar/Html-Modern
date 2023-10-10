@@ -1,0 +1,17 @@
+HTML5 Features:
+
+    1. Semantic Elements: like <header>, <nav>, <article>, <section> and <footer> for making
+       easier structure of web content.
+    2. Multimedia Support: Provide native support of audio(<audio>) and video(<video>) and 
+       also used third party plugins like Flash.
+    3. Canvas: <canvas> allow to dynamic scriptable rendering of graphics and animations direct in browser.
+    4. SVG Support: enable use of vector graphics for sharp and scalable images.
+    5. Offline Web Applications: Introduce Cache and Web storage like Session and Local to store data offline.
+    6. Geolocation: allow to access user geographical location through Geolocation API.
+    7. Web Workers: Helping prevent scripts from blocking main UI thread and improve performance.
+    8. WebSockets: This API used for communicate between browser and server.
+    9. Drag and Drop: Build feature of drag and drop.
+    10. Improved Accessibility: <figure>, <figcaption> and <details> elements along with ARIA roles.
+    11. Responsive Design: It is work well with CSS3 and media queries so easy to create responsive designs.
+    12. History API: allow to maniplute browser history without full page reload.
+    etc...

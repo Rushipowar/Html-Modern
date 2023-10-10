@@ -1,0 +1,11 @@
+1. Use Semantic HTML Elements:
+    Semantic elements provide structural meaning to content. Properly using these elements helps
+    scre reader andother assistive technologies understand the content organization.
+
+2. Provide Alt Text for Images: 
+    descriptive and meaningful alternative text that used in images to description og image. when internet 
+    connecton is slow or other disabled for image loading these users are usefull Alt.
+
+3. ARIA Labels:
+    With ARIA labels define content mean there name, description and many other things that help you to disable 
+    people to understand content and meaning.
